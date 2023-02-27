@@ -3,12 +3,12 @@
 **1.** Which keywords are used to declare a variable in JavaScript?
 <!-- enter you answer in the space below -->
 ```
-
+let, const, and var
 ```
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
-
+A function is a piece of code that will perform a pre-defined set of actions when called. Functions can also be dependent on various sets of conditions to be checked before running.
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
@@ -22,7 +22,7 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
-
+The pineapple has an index of two. Arrays are numbered beginning with zero, so the third item has an index of two.
 ```
 **5.** With these two objects: 
 ```js
@@ -52,7 +52,7 @@ for ( let i = 0; i < arr.length; _______ ) {
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-
+DOM stands for Document Object Model. The first file accessed to render the DOM is the HTML file.
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
@@ -63,7 +63,7 @@ for ( let i = 0; i < arr.length; _______ ) {
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
 ```
-
+A parameter is defined when first writing a function and allows arguments to be passed through to it. The actual arguments are the values that are passed through when calling the function.
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
