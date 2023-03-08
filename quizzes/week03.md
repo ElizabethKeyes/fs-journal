@@ -3,7 +3,13 @@
 **1.** What are the Pillars of Object Oriented Programming (`OOP`)?
 <!-- enter you answer in the space below -->
 ```
+Abstraction - Only expose the necessary details. If we do not intend user to access something, it should be hidden from them altogether.
 
+Encapsulation - Group like things together in their own Classes. This contributes to organization, effective debugging, and privacy.
+
+Inheritance - Passing propertes from a parent class to a child class. If dog has name and age, puppy can inherit those and we can add tricks, for example.
+
+Polymorphism - If our dog object has a method called Speak(), our puppy can inherit that same method but we can apply different logic to result in a different output for the two objects. The method was inherited from the parent and we can change it on the child without altering the parent.
 ```
 **2.** How would you access the `name` of the below object using the `property` variable?
 ```js
@@ -21,7 +27,7 @@ let property = staff.name
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
 ```
-
+Encapsulation is essentially the grouping of like data and methods together in classes to achieve scalable organization, targeted debugging, and increased security. 
 ```
 **4.** What does the S stand for in the `SOLID` principles?
 <!-- enter you answer in the space below -->
@@ -36,7 +42,7 @@ A class contains a constructor which can be used as a 'blueprint' for an object.
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
 ```
-
+A proxy object can be created and used in place of the original object, but it may redefine certain operations of the original object such as getting, setting, or defining properties.
 ```
 
 **7.** What is the purpose of the `MVC` pattern?
