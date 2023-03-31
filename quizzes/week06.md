@@ -25,7 +25,7 @@ A for-in loop would be used to render a collection of data to the page using a r
 **5.** What does the `L` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-'Liskov Substitution Principle' - State that objects in a superclass should be replaceable by objects of its sub-class without breaking the application. 
+'Liskov Substitution Principle' - States that objects in a superclass should be replaceable by objects of its sub-class without breaking the application. 
 ```
 **6.** Which component in Vue does the vue-router use to mount pages onto?
 <!-- enter you answer in the space below -->
@@ -40,12 +40,12 @@ The state object within a component can only be accessed from within that same c
 **9.** What is the responsibility of `Services` in our Vue projects?
 <!-- enter you answer in the space below -->
 ```
-Similar to MVC, the Services will be responsible for changing/updating our data in the AppState.
+Similar to MVC, the Services will be responsible for changing/updating our data in the AppState, as well as making calls to databases.
 ```
 **10.** Which file contains the root element of your Vue project?
 <!-- enter you answer in the space below -->
 ```
-main.js
+app.vue
 ```
 **11.** The ______ tag is used to alter the styling of your entire Vue project.  Adding the ______ attribute to this tag will limit it to just the component it exists.  Fill in the blank.
 <!-- enter you answer in the space below -->
