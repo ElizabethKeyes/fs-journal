@@ -29,12 +29,12 @@
 **6.** What is the primary purpose of End-to-End (E2E) Testing?
 <!-- enter you answer in the space below -->
 ```
-
+E2E testing is utilized to run a full check of the front-end and back-end of an application before launching it to users, to ensure that no unexpected errors are present.
 ```
 **7.** Why is branching important to version control?
 <!-- enter you answer in the space below -->
 ```
-
+Branching allows us to maintain an intact, functional version of our application when any changes are made. Additionally, before merging the altered branch with the main branch, we can compare any changes that were made and do a thorough review of the code to ensure that it will remain functional. 
 ```
 **8.** When should code review happen?
 <!-- enter you answer in the space below -->
@@ -44,5 +44,5 @@
 **9.** What is the term used to define combining two branches?
 <!-- enter you answer in the space below -->
 ```
-
+Combining two branches is called a merge.
 ```
