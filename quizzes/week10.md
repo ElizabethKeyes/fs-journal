@@ -30,12 +30,12 @@ abstract class Car
 **5.** In the example what is the access modifier of the `Start()` method?
 <!-- enter you answer in the space below -->
 ```
-
+"public"
 ```
 **6.** In the example what is `string` an indication of?
 <!-- enter you answer in the space below -->
 ```
-
+It's an indication of the data type of the return for the Start() function.
 ```
 **7.** In the example what is `abstract` preventing?
 <!-- enter you answer in the space below -->
