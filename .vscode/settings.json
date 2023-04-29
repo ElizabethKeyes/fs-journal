@@ -18,5 +18,9 @@
     "titleBar.inactiveBackground": "#0e955d99",
     "titleBar.inactiveForeground": "#e7e7e799"
   },
-  "peacock.color": "#0e955d"
+  "peacock.color": "#0e955d",
+  "cSpell.ignoreWords": [
+    "struct",
+    "structs"
+  ]
 }
